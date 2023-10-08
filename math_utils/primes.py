@@ -13,5 +13,3 @@ def isprime(n):
             return False
         
     return True
-
-print(isprime(2))
